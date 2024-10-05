@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7c8678f5-2208-4865-9d18-f89baebea135" name="Changes" comment="Pokemon" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;noaman2005&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/noaman2005/stationery-website.git&quot;,
+    &quot;accountId&quot;: &quot;c2085149-705f-4fe4-9af3-13a774b684f3&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/components/Layout.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/components/ThemeProvider.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/pages/_app.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/pages/api/settings.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/pages/settings.js" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2lT3Q5H6WDO7EGXlvglMcZIbUTm" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Node.js._app.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.index.js.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;22.7.0&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;22.5.2&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Noaman/project/pp/pages&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propGUI&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\IntelliJ IDEA New\\IntelliJ IDEA 2024.2.1\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Noaman\project\pp\pages" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Noaman\project\pp\pages" />
+      <recent name="C:\Users\Noaman\project\pp\pages\lib" />
+      <recent name="C:\Users\Noaman\project\pp\components" />
+      <recent name="C:\Users\Noaman\project\pp\styles" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="pp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="pp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="pp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="pp" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="pp" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="pp" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="pp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="pp" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c8678f5-2208-4865-9d18-f89baebea135" name="Changes" comment="" />
+      <created>1725190221727</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725190221727</updated>
+      <workItem from="1725190222702" duration="849000" />
+      <workItem from="1725191210210" duration="1199000" />
+      <workItem from="1725199190917" duration="1963000" />
+      <workItem from="1725201189533" duration="1372000" />
+      <workItem from="1725202587401" duration="206000" />
+      <workItem from="1725202806623" duration="887000" />
+      <workItem from="1725203725314" duration="39000" />
+      <workItem from="1725203873627" duration="2710000" />
+      <workItem from="1725206621722" duration="998000" />
+      <workItem from="1725207638778" duration="844000" />
+      <workItem from="1725212853489" duration="2265000" />
+      <workItem from="1725215154166" duration="702000" />
+      <workItem from="1725215952940" duration="3059000" />
+      <workItem from="1725219075099" duration="296000" />
+      <workItem from="1725219450661" duration="314000" />
+      <workItem from="1725258404639" duration="1959000" />
+      <workItem from="1725260400087" duration="845000" />
+      <workItem from="1725261442949" duration="9947000" />
+      <workItem from="1725433694173" duration="8592000" />
+      <workItem from="1725471623175" duration="559000" />
+      <workItem from="1725472913735" duration="4446000" />
+      <workItem from="1725477480924" duration="634000" />
+      <workItem from="1725501352439" duration="4622000" />
+      <workItem from="1725558114029" duration="942000" />
+      <workItem from="1725604273742" duration="712000" />
+      <workItem from="1725645457110" duration="4465000" />
+      <workItem from="1725787931555" duration="1057000" />
+      <workItem from="1725789730190" duration="1128000" />
+      <workItem from="1725814192630" duration="2456000" />
+      <workItem from="1725872379088" duration="5660000" />
+      <workItem from="1725908253005" duration="93000" />
+      <workItem from="1725909838030" duration="1064000" />
+      <workItem from="1725980173605" duration="52000" />
+      <workItem from="1725980235943" duration="1494000" />
+      <workItem from="1725988243507" duration="5479000" />
+      <workItem from="1726046296455" duration="2530000" />
+      <workItem from="1726075030562" duration="854000" />
+      <workItem from="1726137929474" duration="340000" />
+      <workItem from="1726210300228" duration="425000" />
+      <workItem from="1726210738029" duration="17000" />
+      <workItem from="1726224322979" duration="74000" />
+      <workItem from="1726224692848" duration="98000" />
+      <workItem from="1726250612043" duration="947000" />
+      <workItem from="1726295188334" duration="16000" />
+      <workItem from="1726299295269" duration="80000" />
+      <workItem from="1726306930472" duration="1559000" />
+      <workItem from="1726342641977" duration="849000" />
+      <workItem from="1726374775035" duration="890000" />
+      <workItem from="1726377427317" duration="140000" />
+      <workItem from="1726377867787" duration="66000" />
+      <workItem from="1726410385763" duration="2695000" />
+      <workItem from="1726470925737" duration="1655000" />
+      <workItem from="1726594801974" duration="244000" />
+      <workItem from="1726600624790" duration="291000" />
+      <workItem from="1726650195512" duration="1828000" />
+      <workItem from="1726655012147" duration="3419000" />
+      <workItem from="1726660406392" duration="124000" />
+      <workItem from="1726675659394" duration="3010000" />
+      <workItem from="1726680122466" duration="136000" />
+      <workItem from="1726680452900" duration="219000" />
+      <workItem from="1726680710955" duration="8000" />
+      <workItem from="1726775319213" duration="330000" />
+      <workItem from="1726775766751" duration="3297000" />
+      <workItem from="1726779178034" duration="257000" />
+      <workItem from="1726815351151" duration="108000" />
+      <workItem from="1726822502179" duration="1870000" />
+      <workItem from="1726824899955" duration="1186000" />
+      <workItem from="1726857481078" duration="600000" />
+      <workItem from="1726859655294" duration="256000" />
+      <workItem from="1726860642515" duration="16000" />
+      <workItem from="1726861176177" duration="308000" />
+      <workItem from="1726862845812" duration="134000" />
+      <workItem from="1726865862640" duration="1522000" />
+      <workItem from="1726890259678" duration="2224000" />
+      <workItem from="1726901707589" duration="917000" />
+      <workItem from="1727027538203" duration="1862000" />
+      <workItem from="1727029433506" duration="22000" />
+      <workItem from="1727030256015" duration="127000" />
+      <workItem from="1727202729835" duration="679000" />
+      <workItem from="1727248985022" duration="298000" />
+      <workItem from="1727274406726" duration="973000" />
+      <workItem from="1728056623092" duration="767000" />
+      <workItem from="1728103836533" duration="3302000" />
+      <workItem from="1728146685880" duration="25000" />
+      <workItem from="1728149796531" duration="355000" />
+    </task>
+    <task id="LOCAL-00001" summary="Pokemon">
+      <option name="closed" value="true" />
+      <created>1728150146304</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728150146304</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName=".env" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Delete .idea directory" />
+    <MESSAGE value="Pokemon" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pokemon" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
