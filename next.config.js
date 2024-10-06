@@ -1,12 +1,13 @@
 module.exports = {
-    webpack: (config, { isServer }) => {
-        if (!isServer) {
-            config.resolve.fallback = {
-                child_process: false,
-                fs: false,
-                dns: false,
-            };
-        }
-        return config;
-    },
+  webpack: (config, { isServer }) => {
+    if (!isServer) {
+      // Exclude Node.js modules from the client bundle
+      config.resolve.fallback = {
+        net: false,
+        tls: false,
+        'timers/promises': false,
+      };
+    }
+    return config;
+  },
 };
