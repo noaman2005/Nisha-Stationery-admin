@@ -1,4 +1,4 @@
-import mongooseConnect from "@/pages/lib/mongoose";
+import mongooseConnect from "@/lib/mongoose";
 import { Order } from "@/models/Order";
 import { Product } from "@/models/Product";
 
